@@ -1,17 +1,17 @@
 # Heroku Deploy Guide
-##  Chitoge 💙<br>
+##  Nezuko ❤️<br>
 ### Pre-requisite
  - 🌐️ Internet 🌐️️
 - 🧠️ Brain 🧠️
 - 🎵️ Music 🎵️
 - 💫 Chill 💫
-1. [Chitoge](https://github.com/ShineiIchijo/Chitoge) - Go there
+1. [Nezuko](https://github.com/Toshiro223/Nezuko) - Go there
 2. Scroll down a bit and you will see the "Deploy To Heroku" button in purple color (sorry if you are color blind)
 3. Click on it and login or sign up for Heroku
 4. Enter the following fields
     | KEY | VALUE |
     | --- | ----------- |
-    | BOTNAME | Chitoge |
+    | BOTNAME | Nezuko |
     | CHAT_BOT_URL | 'Instructions below for getting url' |
     | CRON | 'null' |
     | GOOGLE_API_KEY | 'Read below to get the API Key |
