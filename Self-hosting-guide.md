@@ -13,8 +13,8 @@
 
 Run the following code to clone the repo
 ```SH
-> git clone https://github.com/Synthesized-Infinity/Whatsapp-Botto-Void
-> cd Whatsapp-Botto-Void
+> git clone https://github.com/Toshiro223/Nezuko
+> cd Nezuko
 ```
 Run this to install the depencencies
 
