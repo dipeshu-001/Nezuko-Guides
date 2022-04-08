@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/loveinterest/images/a/a2/Chitoge_Key_Visual.png/revision/latest?cb=20140806185340" alt="whatsapp-botto-void-init" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GfZyXNq/images-1.jpg" alt="images-1" border="0" /></a>
 # Nezuko Hosting/Deploy Guides
 
 ## 💻 [Self-Hosting-Guide](https://github.com/Toshiro223/Nezuko-Guides/blob/main/Self-hosting-guide.md)
