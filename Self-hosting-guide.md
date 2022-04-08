@@ -1,4 +1,4 @@
-# Chitoge Self-hosting Guide
+# Nezuko Self-hosting Guide
 
 
 ## ⛵ Prerequisites
